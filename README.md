@@ -97,6 +97,7 @@
   <img height="150" src="yetopen.gif"  />
   <img height="150" src="p1.gif"  />
   <img height="150" src="p2.gif"  />
+  <img height="150" src="p3.gif"  />
 </div>
 
 
