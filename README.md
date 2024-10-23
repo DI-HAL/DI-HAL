@@ -1,6 +1,7 @@
 <h1 align="left">Hello there, im HAL</h1>
-<h3 align="left">im a Computer enthusiast / Sys admin / Network Architect </h3>
-<h3 align="left">Exploring whatever that is intresting (now exploring the vast world of AI and ML)</h3>
+<h3 align="left">🗁im a Computer Enthusiast / Sys admin / Network Architect </h3>
+<h3 align="left">🗁Homelab Ethusiast </h3>
+<h3 align="left">🗁Exploring whatever that is intresting (now exploring the vast world of AI and ML)</h3>
 
 ###
 
